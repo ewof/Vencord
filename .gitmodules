@@ -1,0 +1,3 @@
+[submodule "src/userplugins/customSounds"]
+	path = src/userplugins/customSounds
+	url = https://github.com/ScattrdBlade/customSounds
